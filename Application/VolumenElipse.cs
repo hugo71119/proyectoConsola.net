@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoConsola.Application
 {
-    public class PrismaCuadrangular
+    public class VolumenElipse
     {
         public static double Volumen(double area, double altura)
         {

@@ -12,3 +12,4 @@ C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\ProyectoConsola\ProyectoConsola
 C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\ProyectoConsola\ProyectoConsola\obj\Debug\net8.0\ProyectoConsola.pdb
 C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\ProyectoConsola\ProyectoConsola\obj\Debug\net8.0\ProyectoConsola.genruntimeconfig.cache
 C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\ProyectoConsola\ProyectoConsola\obj\Debug\net8.0\ref\ProyectoConsola.dll
+C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\ProyectoConsola\ProyectoConsola\obj\Debug\net8.0\ProyectoConsola.sourcelink.json

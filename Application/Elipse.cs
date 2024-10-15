@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoConsola.Application
 {
-    public class Cuadrado
+    public class Elipse
     {
         public static double Perimetro(double pi, double semiejeMenor, double semiejeMayor)
         {
